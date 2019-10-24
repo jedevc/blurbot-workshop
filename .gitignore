@@ -1,0 +1,5 @@
+# Google Cloud credentials
+credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
