@@ -5,12 +5,12 @@ HackTheMidlands v4.0.
 
 ## Files
 
-- `notes.md`
+- [notes.md](https://github.com/jedevc/blurbot-workshop/blob/master/notes.md)
     - My notes for the workshop, explaining how to work through the content
     in your own time.
-- `blurbot.py`
+- [blurbot.py](https://github.com/jedevc/blurbot-workshop/blob/master/blurbot.py)
     - Python script that runs blurbot on any image file you provide it.
-- `blurbot.ipynb`
+- [blurbot.ipynb](https://github.com/jedevc/blurbot-workshop/blob/master/blurbot.ipynb)
     - Jupyter notebook that contains roughly the same content as
     `blurbot.py`.
 
