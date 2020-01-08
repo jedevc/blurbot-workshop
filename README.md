@@ -3,6 +3,8 @@
 This repository contains all of the resources from my Blurbot workshop at
 HackTheMidlands v4.0.
 
+Find the slides [here](https://docs.google.com/presentation/d/1XWnYPdeupV2foKyleK_gjfVPwnsnRUvjN2g_M37eCC8/edit#slide=id.g62fc528f49_1_72)!
+
 ## Files
 
 - [notes.md](https://github.com/jedevc/blurbot-workshop/blob/master/notes.md)
